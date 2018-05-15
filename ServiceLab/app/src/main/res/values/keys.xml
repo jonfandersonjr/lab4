@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="keys_shared_prefs">serviceslab.SHAREDPREFS</string>
+    <string name="keys_sp_on">true</string>
+
+    <string name="keys_extra_results">results</string>
+    <string name="keys_is_foreground">FOREGROUND</string>
+
+</resources>

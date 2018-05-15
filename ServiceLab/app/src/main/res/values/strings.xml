@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ServiceLab</string>
+
+    <string name="main_button_start">Start Service</string>
+    <string name="main_button_end">End Service</string>
+    <string name="main_button_result">New Results</string>
+    <string name="check">checking?</string>
+
+</resources>

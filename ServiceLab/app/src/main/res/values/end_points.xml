@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="ep_my_api_key">BF2A6E6EEBD34563A52B</string>
+    <string name="ep_api_key_arg">apikey</string>
+
+    <string name="ep_phish_net_url">api.phish.net</string>
+    <string name="ep_phish_version">v3</string>
+    <string name="ep_phish_setlist">setlist</string>
+
+    <string name="ep_base_url">jonnya92-lab4-backend.herokuapp.com</string>
+    <string name="ep_phish">phish</string>
+    <string name="ep_phish_random">random</string>
+
+
+</resources>
